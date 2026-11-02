@@ -1,0 +1,11 @@
+#HAI
+#MAEK HEAD
+#GIMMEH TITLE My First Page #OIC
+#MKAY
+#MAEK PARAGRAF Hello, this is my first HTML page. #MKAY
+#MAEK PARAGRAF #GIMMEH BOLD This text is bold! #OIC #MKAY
+#MAEK LIST
+#GIMMEH ITEM First item #OIC
+#GIMMEH ITEM Second item #OIC
+#MKAY
+#KBYE
